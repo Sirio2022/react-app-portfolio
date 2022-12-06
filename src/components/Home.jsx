@@ -16,7 +16,13 @@ const Home = () => {
             Trayectoria laboral en áreas administrativas y financieras, gestionando la planeación, programación, direccionamiento de objetivos. 
             Con pensamiento creativo, resolución de problemas, trabajo en equipo, comunicación, liderazgo y autonomía.</p>
         <div>
-            <button className="text-white border-2 px-6 py-3 my-2 flex items-center hover:bg-blue-600 hover:border-blue-600">Ver mi trabajo <HiArrowNarrowRight className="ml-2"/> </button>
+            <button className="text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-blue-600 hover:border-blue-600">Ver mi trabajo  
+            
+            <span className="group-hover:rotate-90 duration-300">
+            <HiArrowNarrowRight className="ml-3"/>
+            </span>
+            
+            </button>
         </div>
 
     </div>
