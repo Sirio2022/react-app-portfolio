@@ -21,7 +21,7 @@ const Navbar = () => {
         <ul className="hidden md:flex">
           <li>Home</li>
           <li>Acerca de mí</li>
-          <li>Aptitudes y conocimientos</li>
+          <li>Conocimientos</li>
           <li>Proyectos</li>
           <li>Contáctame</li>
         </ul>
@@ -36,7 +36,7 @@ const Navbar = () => {
       <ul className={!nav ? 'hidden': 'absolute top-0 left-0 w-full h-screen bg-[#0a192f] flex flex-col justify-center items-center'}>
         <li className="py-6 text-4xl">Home</li>
         <li className="py-6 text-4xl">Acerca de mí</li>
-        <li className="py-6 text-4xl">Aptitudes y conocimientos</li>
+        <li className="py-6 text-4xl">Conocimientos</li>
         <li className="py-6 text-4xl">Proyectos</li>
         <li className="py-6 text-4xl">Contáctame</li>
       </ul>
