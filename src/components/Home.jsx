@@ -17,8 +17,8 @@ const Home = () => {
             Estoy dispuesto a embarcarme en este mundo inmenso que es la programación.   </p>
         <div>
             <button className="text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-blue-600 hover:border-blue-600">
-            <Link  to="work"  smooth={true}  duration={500}>
-          Mira mi trabajo
+            <Link  to="about"  smooth={true}  duration={500}>
+          Más sobre mi
         </Link>  
             
             <span className="group-hover:rotate-90 duration-300">
