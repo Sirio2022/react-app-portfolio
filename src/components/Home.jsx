@@ -13,7 +13,7 @@ const Home = () => {
         <h2 className="text-4xl sm:text-7xl font-bold text-[#8892b0]">Soy Full Stack Developer.</h2>
         <p className="text-[#8892b0] py-4 max-w-[700px]">
             Desarrollador FullStack graduado de Henry.
-            Me gusta programar, fan de los videojuegos y la guitarra, estoy dispuesto a aprender día a día.
+            Me gusta programar, fan de los videojuegos y la guitarra, estoy comprometido a aprender día a día.
             Estoy dispuesto a embarcarme en este mundo inmenso que es la programación.   </p>
         <div>
             <button className="text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-blue-600 hover:border-blue-600">
