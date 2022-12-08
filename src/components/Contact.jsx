@@ -49,7 +49,7 @@ const Contact = () => {
             <p className='py-4 text-[#8892b0]'>Si deseas contactarme, puedes hacerlo a través de este formulario</p>
 
         </div>
-        <input className='bg-[#ccd6f6] p-2' type="text" placeholder='Name' name="name" value={input.name} onChange={handleOnChange}/>
+        <input className='bg-[#ccd6f6] p-2' type="text" placeholder='Tu nombre' name="name" value={input.name} onChange={handleOnChange}/>
         <input className='my-4 p-2 bg-[#ccd6f6]' type="email" placeholder='Email' name="email" value={input.email} onChange={handleOnChange}/>
         <textarea className='bg-[#ccd6f6] p-2' name="message" rows="10" placeholder='Mensaje' value={input.message} onChange={handleOnChange}></textarea>
         <button className='text-white border-2 hover:bg-blue-600 hover:border-blue-600 px-4 py-3 my-8 mx-auto flex items-center' type='submit'>Enviar</button>
