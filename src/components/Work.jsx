@@ -1,5 +1,5 @@
 import React from 'react';
-import WorkImg from '../assets/henryShop.jpg';
+import GuitarLa from '../assets/GuitarLA-Next.jpg';
 import Veterinaria from '../assets/Veterinaria.jpg';
 import Presupuesto from '../assets/Presupuesto.jpg';
 import Cripto from '../assets/Criptos.jpg';
@@ -21,21 +21,21 @@ const Work = () => {
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4">
           {/* Grid Item */}
           <div
-            style={{ backgroundImage: `url(${WorkImg})` }}
+            style={{ backgroundImage: `url(${GuitarLa})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div "
           >
             {/* Hover Effects */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
-                React JS Application
+                Next JS Application
               </span>
               <div className="pt-8 text-center">
-                <a href="https://henry-shop.vercel.app/">
+                <a href="https://guitarla-next-blond.vercel.app/">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
                 </a>
-                <a href="https://github.com/Sirio2022/HenryShop">
+                <a href="https://github.com/Sirio2022/guitarla-next">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>
