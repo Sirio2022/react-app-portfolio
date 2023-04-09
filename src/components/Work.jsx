@@ -3,7 +3,7 @@ import GuitarLa from '../assets/GuitarLA-Next.jpg';
 import Veterinaria from '../assets/Veterinaria.jpg';
 import Presupuesto from '../assets/Presupuesto.jpg';
 import Cripto from '../assets/Criptos.jpg';
-import QuiscoApp from '../assets/QuiscoApp.jpg';
+import QuiscoApp from '../assets/Quisco-App.jpg';
 
 const Work = () => {
   return (
