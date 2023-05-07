@@ -1,6 +1,6 @@
 import React from 'react';
 import GuitarLa from '../assets/GuitarLA-Next.jpg';
-import Veterinaria from '../assets/Veterinaria.jpg';
+import Task from '../assets/Task.png';
 import Presupuesto from '../assets/Presupuesto.jpg';
 import Cripto from '../assets/Criptos.jpg';
 import QuiscoApp from '../assets/Quisco-App.jpg';
@@ -70,7 +70,7 @@ const Work = () => {
           </div>
           {/* Grid Item */}
           <div
-            style={{ backgroundImage: `url(${Veterinaria})` }}
+            style={{ backgroundImage: `url(${Task})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div "
           >
             {/* Hover Effects */}
@@ -79,12 +79,12 @@ const Work = () => {
                 React JS Application
               </span>
               <div className="pt-8 text-center">
-                <a href="https://deluxe-marzipan-52ff28.netlify.app/">
+                <a href="https://thunderous-kulfi-ba32be.netlify.app/">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
                 </a>
-                <a href="https://github.com/Sirio2022/Citas-React">
+                <a href="https://github.com/Sirio2022/UpTask-APP">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>
