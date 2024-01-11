@@ -109,7 +109,7 @@ const Navbar = () => {
               className="flex justify-between items-center w-full text-gray-300"
               href="mailto:expedo360@outlook.com"
             >
-              Email <HiOutlineMail size={30} />
+              jalvar49@eafit.edu.co <HiOutlineMail size={30} />
             </a>
           </li>
         </ul>
