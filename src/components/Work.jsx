@@ -31,12 +31,18 @@ const Work = () => {
                 Next JS Application
               </span>
               <div className="pt-8 text-center">
-                <a href="https://quisco-app-production.up.railway.app/">
+                <a
+                  href="https://quisco-app-production.up.railway.app/"
+                  target="_blank"
+                >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
                 </a>
-                <a href="https://github.com/Sirio2022/Quisco-App">
+                <a
+                  href="https://github.com/Sirio2022/Quisco-App"
+                  target="_blank"
+                >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>
@@ -55,12 +61,18 @@ const Work = () => {
                 Next JS Application
               </span>
               <div className="pt-8 text-center">
-                <a href="https://guitarla-next-blond.vercel.app/">
+                <a
+                  href="https://guitarla-next-blond.vercel.app/"
+                  target="_blank"
+                >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
                 </a>
-                <a href="https://github.com/Sirio2022/guitarla-next">
+                <a
+                  href="https://github.com/Sirio2022/guitarla-next"
+                  target="_blank"
+                >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>
@@ -79,12 +91,18 @@ const Work = () => {
                 React JS Application
               </span>
               <div className="pt-8 text-center">
-                <a href="https://up-task-redux-frontend.vercel.app">
+                <a
+                  href="https://up-task-redux-frontend.vercel.app"
+                  target="_blank"
+                >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
                 </a>
-                <a href="https://github.com/Sirio2022/UpTask-APP">
+                <a
+                  href="https://github.com/Sirio2022/UpTask-APP"
+                  target="_blank"
+                >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>
@@ -108,7 +126,10 @@ const Work = () => {
                     Demo
                   </button>
                 </a>
-                <a href="https://github.com/Sirio2022/Control-de-gastos">
+                <a
+                  href="https://github.com/Sirio2022/Control-de-gastos"
+                  target="_blank"
+                >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>
@@ -127,12 +148,18 @@ const Work = () => {
                 React JS Application
               </span>
               <div className="pt-8 text-center">
-                <a href="https://tourmaline-sprite-a64212.netlify.app/">
+                <a
+                  href="https://tourmaline-sprite-a64212.netlify.app/"
+                  target="_blank"
+                >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
                 </a>
-                <a href="https://github.com/Sirio2022/Criptomonedas-React">
+                <a
+                  href="https://github.com/Sirio2022/Criptomonedas-React"
+                  target="_blank"
+                >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>
