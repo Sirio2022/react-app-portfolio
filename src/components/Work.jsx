@@ -91,7 +91,10 @@ const Work = () => {
                 React JS Application
               </span>
               <div className="pt-8 text-center">
-                <a href="https://luxury-conkies-30c196.netlify.app/">
+                <a
+                  href="https://luxury-conkies-30c196.netlify.app/"
+                  target="_blank"
+                >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
