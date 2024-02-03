@@ -1,9 +1,8 @@
 import React from 'react';
-import GuitarLa from '../assets/GuitarLA-Next.jpg';
+import Ecommerce from '../assets/E-commerce.png';
 import Task from '../assets/Task.png';
 import Presupuesto from '../assets/Presupuesto.jpg';
 import Cripto from '../assets/Criptos.jpg';
-import QuiscoApp from '../assets/Quisco-App.jpg';
 
 const Work = () => {
   return (
@@ -22,7 +21,7 @@ const Work = () => {
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4">
           {/* Grid Item */}
           <div
-            style={{ backgroundImage: `url(${GuitarLa})` }}
+            style={{ backgroundImage: `url(${Ecommerce})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div "
           >
             {/* Hover Effects */}
@@ -31,16 +30,13 @@ const Work = () => {
                 Next JS Application
               </span>
               <div className="pt-8 text-center">
-                <a
-                  href="https://guitarla-next-ver2.vercel.app/"
-                  target="_blank"
-                >
+                <a href="https://amazing-ecommerce.vercel.app/" target="_blank">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
                 </a>
                 <a
-                  href="https://github.com/Sirio2022/guitarla-next"
+                  href="https://github.com/Sirio2022/next-amazona-v2"
                   target="_blank"
                 >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">

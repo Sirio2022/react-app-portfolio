@@ -1,4 +1,4 @@
-import React from "react";
+import React from 'react';
 
 const About = () => {
   return (
@@ -13,20 +13,21 @@ const About = () => {
           <div></div>
         </div>
         <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4">
-            <div className="sm:text-right text-4xl font-bold">
-                <p>Hola, soy JuanMa, un gusto tenerte por acá, echa un vistazo!</p>
-            </div>
+          <div className="sm:text-right text-4xl font-bold">
+            <p>Hola, soy JuanMa, un gusto tenerte por acá, echa un vistazo!</p>
+          </div>
           <div>
             <p>
               Full Stack Developer con formación como Diseñador Web. Experiencia
               trabajando en NodeJS, React, Redux, Mongo, Express, Posgresql,
               entre otras tecnologías del sector, además de metodologías ágiles.
-              Participé en la creación de un E-commerce para el diseño y compra
-              de remeras estampadas. Trayectoria laboral en áreas
-              administrativas y financieras, gestionando la planeación,
-              programación, direccionamiento de objetivos. Con pensamiento
-              creativo, resolución de problemas, trabajo en equipo,
-              comunicación, liderazgo y autonomía.
+              He creado multiples proyectos, como Ecommerce, consulta de APIs,
+              etc, poniendo en práctica los conocimientos adquiridos.
+              {'\n'}
+              Trayectoria laboral en áreas administrativas y financieras,
+              gestionando la planeación, programación, direccionamiento de
+              objetivos. Con pensamiento creativo, resolución de problemas,
+              trabajo en equipo, comunicación, liderazgo y autonomía.
             </p>
           </div>
         </div>
