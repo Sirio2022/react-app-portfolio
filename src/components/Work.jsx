@@ -4,7 +4,7 @@ import Task from '../assets/Task.png';
 import Presupuesto from '../assets/Presupuesto.jpg';
 import Cripto from '../assets/Criptos.jpg';
 import MusicStore from '../assets/MusicStore.png';
-import RickMorty from '../assets/Rick&Morty.png';
+import RickMorty from '../assets/RickMorty.png';
 
 const Work = () => {
   return (
