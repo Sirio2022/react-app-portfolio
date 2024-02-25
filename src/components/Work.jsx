@@ -4,6 +4,7 @@ import Task from '../assets/Task.png';
 import Presupuesto from '../assets/Presupuesto.jpg';
 import Cripto from '../assets/Criptos.jpg';
 import MusicStore from '../assets/MusicStore.png';
+import RickMorty from '../assets/Rick&Morty.png';
 
 const Work = () => {
   return (
@@ -167,6 +168,11 @@ const Work = () => {
               </div>
             </div>
           </div>
+          {/* Grid Item */}
+          <div
+            style={{ backgroundImage: `url(${RickMorty})` }}
+            className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div "
+          >
             {/* Hover Effects */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
