@@ -19,10 +19,15 @@ const About = () => {
           <div>
             <p>
               Full Stack Developer con formación como Diseñador Web. Experiencia
-              trabajando en NodeJS, React, Redux, Mongo, Express, Posgresql,
-              entre otras tecnologías del sector, además de metodologías ágiles.
-              He creado multiples proyectos, como Ecommerce, consulta de APIs,
-              etc, poniendo en práctica los conocimientos adquiridos.
+              trabajando en NodeJS, React, Redux Toolkit, Mongo, Express,
+              Posgresql, entre otras tecnologías del sector, además de
+              metodologías ágiles. He creado múltiples proyectos, como
+              Ecommerce, consulta de APIs, RESTful API, etc, poniendo en
+              práctica los conocimientos adquiridos. Trayectoria laboral en
+              áreas administrativas y financieras, gestionando la planeación,
+              programación, direccionamiento de objetivos. Con pensamiento
+              creativo, resolución de problemas, trabajo en equipo,
+              comunicación, liderazgo y autonomía.
               {'\n'}
               Trayectoria laboral en áreas administrativas y financieras,
               gestionando la planeación, programación, direccionamiento de
