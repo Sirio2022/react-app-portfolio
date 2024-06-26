@@ -9,8 +9,8 @@ import GIT from '../assets/github.png';
 import TAILWIND from '../assets/tailwind.png';
 import CSS from '../assets/css.png';
 import STRAPI from '../assets/Strapi.png';
-import REMIX from '../assets/Remix Run.png';
 import NEXT from '../assets/NextJs.png';
+import ASTRO from '../assets/Astro.png';
 
 const Skills = () => {
   return (
@@ -46,8 +46,8 @@ const Skills = () => {
             <p className="my-4">NEXT JS</p>
           </div>
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
-            <img className="w-20 mx-auto" src={REMIX} alt="HTML" />
-            <p className="my-4">REMIX RUN</p>
+            <img className="w-20 mx-auto" src={ASTRO} alt="HTML" />
+            <p className="my-4">ASTRO</p>
           </div>
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
             <img className="w-20 mx-auto" src={TAILWIND} alt="HTML" />
