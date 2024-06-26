@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import axios from 'axios';
 import Swal from 'sweetalert2';
 
@@ -24,7 +24,7 @@ const Contact = () => {
       data: input,
       headers: { 'Content-Type': 'multipart/form-data' },
     })
-      .then((response) => {
+      .then(() => {
         Swal.fire({
           icon: 'success',
           title: 'Mensaje enviado',

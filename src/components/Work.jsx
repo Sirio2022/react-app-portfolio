@@ -1,4 +1,3 @@
-import React from 'react';
 import Ecommerce from '../assets/E-commerce.png';
 import Task from '../assets/Task.png';
 import Presupuesto from '../assets/Presupuesto.jpg';

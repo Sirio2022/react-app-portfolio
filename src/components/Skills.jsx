@@ -1,4 +1,3 @@
-import React from 'react';
 import HTML from '../assets/html.png';
 import POSTGRESQL from '../assets/postgresql.png';
 import JS from '../assets/javascript.png';
