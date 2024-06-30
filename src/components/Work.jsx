@@ -1,7 +1,7 @@
 import Ecommerce from '../assets/E-commerce.png';
 import Task from '../assets/Task.png';
 import Presupuesto from '../assets/Presupuesto.jpg';
-import Cripto from '../assets/Criptos.jpg';
+import Criptos from '../assets/Criptos.png';
 import MusicStore from '../assets/MusicStore.png';
 import RickMorty from '../assets/RickMorty.png';
 import ClimaApp from '../assets/Clima-app.png';
@@ -170,7 +170,7 @@ const Work = () => {
           </div>
           {/* Grid Item */}
           <div
-            style={{ backgroundImage: `url(${Cripto})` }}
+            style={{ backgroundImage: `url(${Criptos})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div "
           >
             {/* Hover Effects */}
@@ -180,7 +180,7 @@ const Work = () => {
               </span>
               <div className="pt-8 text-center">
                 <a
-                  href="https://tourmaline-sprite-a64212.netlify.app/"
+                  href="https://cryptos-react-typescript.vercel.app/"
                   target="_blank"
                 >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
@@ -188,7 +188,7 @@ const Work = () => {
                   </button>
                 </a>
                 <a
-                  href="https://github.com/Sirio2022/Criptomonedas-React"
+                  href="https://github.com/Sirio2022/cryptos-react-typescript"
                   target="_blank"
                 >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
